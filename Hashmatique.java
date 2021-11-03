@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 public class Hashmatique {
     public static void main(String[] args) {
         HashMap<String, String> trackList = new HashMap<String, String>();
